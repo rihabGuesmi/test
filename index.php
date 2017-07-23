@@ -2,12 +2,12 @@
 // On prolonge la session
 session_start();
 // On teste si la variable de session existe et contient une valeur
-if(empty($_SESSION['email']))
+/*if(empty($_SESSION['email']))
 {
   // Si inexistante ou nulle, on redirige vers le formulaire de login
   header('Location:signIn.php');
   exit();
-}
+}*/
 ?>
 <html>
   <head>
