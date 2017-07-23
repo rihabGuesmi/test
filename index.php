@@ -26,12 +26,7 @@ session_start();
   <body>
 <header>
   <div class="outer">
-    <span>
-      <img src="1.jpg" alt="brand" height="50px" width="50px" style=" margin-top:5px; margin-left:100px" >
-      <img src="ima.jpg" alt="brand" height="50px" width="50px" style=" margin-top:5px;margin-left:200px" >
-      <img src="images.jpg" alt="brand" height="50px" width="50px" style="margin-top:5px;margin-left:300px" >
-      <img src="im.jpg" alt="brand" height="50px" width="50px" style=" margin-top:5px;margin-left:400px" >
-    </span>
+ 
 
   </div>
   <img src="logo.png" alt="brand" height="50px" width="200px" style="float:left; margin-top:10px" >
